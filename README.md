@@ -18,7 +18,7 @@ We implement SEED based on the official code of [MoCo](https://github.com/facebo
 
 Install PyTorch and ImageNet dataset following the [official PyTorch ImageNet training code](https://github.com/pytorch/examples/tree/master/imagenet).
 
-This repo aims to be minimal modifications on MoCo. Running by:
+This repo aims to be minimal modifications on [MoCo](https://github.com/facebookresearch/moco). Running by:
 ```
 sh train.sh
 ```
