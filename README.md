@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of the **SEED** (ICLR-2021):
 
-We implement SEED based on the official code of MoCo.
+We implement SEED based on the official code of [MoCo](https://github.com/facebookresearch/moco).
 
 ```
 @inproceedings{fang2021seed,
