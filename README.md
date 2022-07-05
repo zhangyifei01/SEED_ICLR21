@@ -1,6 +1,6 @@
 ## SEED: Self-supervised Distillation for Visual Representation
 
-This is a PyTorch implementation of the **SEED** (ICLR-2021):
+This is an unofficial PyTorch implementation of the **SEED** (ICLR-2021):
 
 We implement SEED based on the official code of [MoCo](https://github.com/facebookresearch/moco).
 
