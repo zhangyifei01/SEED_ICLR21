@@ -29,8 +29,13 @@ Results show that our code is credible.
   </tr>
   <tr>
     <td>**Ours** (hidden_dim=2048)</td>
-    <td>60.31</td>
-    <td>83.56</td>
+    <td>60.32</td>
+    <td>83.50</td>
+  </tr>
+  <tr>
+    <td>**Ours** (symmetry, hidden_dim=2048)</td>
+    <td>61.27</td>
+    <td>84.06</td>
   </tr>
 </table>
 
